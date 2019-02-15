@@ -1,2 +1,3 @@
 arquivo editado!
 editado.
+Alterando arquivo para testar git push e git pull.
